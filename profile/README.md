@@ -1,4 +1,6 @@
 # ConfiDate
+Infrastructure for private content personalisation 
+==============
 
 ## Main repository
 - confidate-demoapp-ios
