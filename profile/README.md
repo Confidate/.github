@@ -1,7 +1,9 @@
 # ConfiDate
 Infrastructure for private content personalisation 
 ==============
-
+## Solution
+![Image alt](https://github.com/ConfidentiOxford/.github/blob/main/short_solution.png)
+==============
 ## Main repository
  [confidate-demoapp-ios](https://github.com/ConfidentiOxford/confidate-demoapp-ios)
 
