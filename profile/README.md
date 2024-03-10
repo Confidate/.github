@@ -10,3 +10,8 @@ Infrastructure for private content personalisation
 
 ### Python tool to transpile a tf.keras model into a circom circuit
 - [keras2circom_transpile](https://github.com/ConfidentiOxford/keras2circom_transpile)
+
+
+#### Contacts:
+- artem.grigor.23@ucl.ac.uk
+- nikita.krvchnk1@gmail.com
