@@ -6,7 +6,7 @@ Infrastructure for private content personalisation
  [confidate-demoapp-ios](https://github.com/ConfidentiOxford/confidate-demoapp-ios)
 
 ### Library for making client-side proving on mobile simple
-- mopro
+- [mopro](https://github.com/ConfidentiOxford/mopro)
 
 ### Python tool to transpile a tf.keras model into a circom circuit
-- keras2circom_transpile 
+- [keras2circom_transpile](https://github.com/ConfidentiOxford/keras2circom_transpile)
