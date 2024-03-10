@@ -1,4 +1,4 @@
-# Confidential dating system
+# ConfiDate
 
 ## Main repository
 - confidate-demoapp-ios
