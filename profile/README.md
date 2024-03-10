@@ -3,7 +3,7 @@ Infrastructure for private content personalisation
 ==============
 
 ## Main repository
-- confidate-demoapp-ios
+ [confidate-demoapp-ios](https://github.com/ConfidentiOxford/confidate-demoapp-ios)
 
 ### Library for making client-side proving on mobile simple
 - mopro
