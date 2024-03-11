@@ -6,6 +6,8 @@ Infrastructure for private content personalisation
 ==============
 ## Main repository
  [confidate-demoapp-ios](https://github.com/ConfidentiOxford/confidate-demoapp-ios)
+ look at Main branch.
+ ZK IOS integration is in ‘ZK-setup’ branch. There were issues in the compilation of ‘mopro’ on one of our old x86 Macs not being compatible with M1 Mac’s, so we decided to keep it out. So ZK has not been merge into main for now
 
 ### Library for making client-side proving on mobile simple
 - [mopro](https://github.com/ConfidentiOxford/mopro)
